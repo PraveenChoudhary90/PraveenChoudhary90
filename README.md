@@ -1,5 +1,5 @@
 
-![logo](https://github.com/PraveenChoudhary90/PraveenChoudhary90/blob/main/banner.png)
+![logo](https://github.com/PraveenChoudhary90/PraveenChoudhary90/blob/main/profile.png)
 )
 <h1 align="center">Hi 👋, I'm Praveen Kumar Choudhary</h1>
 <h3 align="center">A Passionate Mern Full Stack Developer from India</h3>
