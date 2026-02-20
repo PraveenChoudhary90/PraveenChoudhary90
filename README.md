@@ -2,7 +2,7 @@
 ![logo](https://github.com/PraveenChoudhary90/PraveenChoudhary90/blob/main/profile.png)
 )
 <h1 align="center">Hi 👋, I'm Praveen Kumar Choudhary</h1>
-<h3 align="center">A Passionate Mern Full Stack Developer from India</h3>
+<h3 align="center">A Passionate MERN Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif">
 
